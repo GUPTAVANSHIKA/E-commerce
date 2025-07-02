@@ -19,8 +19,6 @@
 * Category
 
 
-### ✨ [Demo](https://shoppingangular.vercel.app/products)
-
 ## Screenshot 
 
 ![screencapture-shopping-angular-ia4jq5a0m-mardoqueu-vercel-app-products-2023-01-15-19_02_54](https://user-images.githubusercontent.com/11077068/212569595-5648e3b4-6ad6-4ef5-b572-fd98edbfa955.png)
