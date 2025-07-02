@@ -29,18 +29,3 @@
 
 
 
-## Author
-
-👤 **Mardoqueu Sousa**
-
-* Website: https://mardoqueu.vercel.app/
-* Twitter: [@SousaMardoqueu](https://twitter.com/SousaMardoqueu)
-* Github: [@mardoqueu](https://github.com/mardoqueu)
-* LinkedIn: [@mardoqueu-sousa](https://linkedin.com/in/mardoqueu-sousa)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
